@@ -1,0 +1,3 @@
+Yes, path exists
+No, path doesn't exist
+Yes, path exists
