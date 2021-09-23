@@ -1,3 +1,2 @@
-Yes, path exists
-No, path doesn't exist
-Yes, path exists
+No, graph is not Bipartite
+Yes, graph is Bipartite
